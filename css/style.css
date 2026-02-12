@@ -380,3 +380,6 @@
             text-align: center;
             margin: 10px 0 0 0;
         }
+       .thumbnail-container img {
+              width: 100%
+       }
