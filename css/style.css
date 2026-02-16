@@ -492,3 +492,7 @@
         grid-template-columns: 1fr;
     }
 }
+
+.game-card a {
+       all: unset;
+}
